@@ -10,8 +10,8 @@
 » Material-UI <br>
 » Query Lib <br>
 » axios Lib <br>
-» currencyfreaks API <br
-» freegold API <br
+» currencyfreaks API <br>
+» freegold API <br>
 
 Live Link: <a href=''>IsisDom</a>
 
