@@ -1,0 +1,10 @@
+export { default as HeroSection } from "../components/Sections/Section/Hero/HeroSection.component";
+export { default as MostTrade } from "../components/Sections/Section/CurrSection/MostTrade/MostTrade.component";
+export { default as CurrencyRate } from "../components/Sections/Section/CurrSection/CurrencyRate/CurrencyRate.component";
+export { default as GoldRate } from "../components/Sections/Section/GoldSilverSection/GoldRate/GoldRate.component";
+export { default as SilverRate } from "../components/Sections/Section/GoldSilverSection/SilverRate/SilverRate";
+export { default as CurrSection } from "../components/Sections/Section/CurrSection/CurrSection";
+export { default as GoldSilverSection } from "../components/Sections/Section/GoldSilverSection/GoldSilverSection";
+export { default as CurrSectionsApi } from "../api/CurrSections.api";
+export { default as GoldSilverSectionsApi } from "../api/GoldSilverSections.api";
+export { default as AboutSection } from "../components/Sections/Section/About/AboutSection";
