@@ -37,7 +37,7 @@ const Footer = () => {
           <Link
             variant="subtitle1"
             target="_blank"
-            href="https://github.com/Goblo7"
+            href="https://github.com/AhmedEhab-SG/"
             sx={footerStyles.linkNotI}
           >
             Designed & Built by Ahmed Ehab
@@ -47,7 +47,7 @@ const Footer = () => {
           {" "}
           <Link
             target="_blank"
-            href="https://github.com/Goblo7"
+            href="https://github.com/AhmedEhab-SG/isis-rates"
             sx={{
               display: "flex",
               alignItems: "center",
