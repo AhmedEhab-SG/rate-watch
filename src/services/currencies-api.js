@@ -1,7 +1,7 @@
 import axios from "axios";
 import currenciesDb from "../database/currencies-db";
 
-const currUrl = `https://test-api.currencyfreaks.com/v2.0/rates/latest?apikey=${process.env.REACT_APP_CURRENCY_KEY}`;
+const currUrl = `https://api.currencyfreaks.com/v2.0/rates/latest?apikey=${process.env.REACT_APP_CURRENCY_KEY}`;
 
 // currencies-api logic checking before fetching
 
