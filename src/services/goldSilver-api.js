@@ -1,7 +1,7 @@
 import goldSilverDb from "../database/goldSilver-db";
 import axios from "axios";
 
-const goldUrl = `https://api.freegoldprice.org/request.cfm?key=${process.env.REACT_APP_GOLD_KEY}`;
+const goldUrl = `https://test-api.freegoldprice.org/request.cfm?key=${process.env.REACT_APP_GOLD_KEY}`;
 
 // currencies-api logic checking before fetching
 
