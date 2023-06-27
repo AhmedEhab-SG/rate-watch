@@ -6,8 +6,8 @@ const heroStyles = {
     justifyContent: "center",
     alignItems: "center",
     justifyItems: "center",
-    marginTop: { lg: "15rem", md: "15rem", sm: "13rem", xs: "8rem" },
-    marginBottom: { md: "2rem" },
+    marginTop: { lg: "15rem", md: "15rem", sm: "13rem", xs: "10rem" },
+    marginBottom: { md: "2rem", xs:"5rem"},
   },
   heroFlex: {
     display: "flex",

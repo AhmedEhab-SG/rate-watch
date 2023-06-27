@@ -50,7 +50,7 @@ const navStyles = {
       width: "60%",
     },
   },
-  smallStack: { gap: "5rem", width: "100%", alignItems: "center" },
+  smallStack: { gap: "5rem", alignItems: "center" },
 };
 
 export default headerStyles;

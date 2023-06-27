@@ -94,7 +94,7 @@ const NavBtn = () => {
                 />
               </Toolbar>
             </AppBar>
-            <Stack sx={navDrawer.smallStack}>{navBtnElement}</Stack>
+            <Stack sx={navStyles.smallStack}>{navBtnElement}</Stack>
           </Drawer>
         </Fragment>
       )}
