@@ -1,6 +1,6 @@
-<div align='center'><img style="width:16%" src='./public/logo.png'/></div>
+<div align="center"><img style="width:16%" src="./public/logo.png"/></div>
 
-# RateWatch
+<h1 align="center"> RateWatch </h1>
 
 ### About Project:
 
@@ -18,5 +18,5 @@
 Live Link: <a href=''>RateWatch</a>
 
 <h1 align="center" >
-<img src="./public/img/isisDom.img.png" alt="car-shop-cover">
+<img src="./public/img/rateWatch.img.png" alt="rate-watch-cover">
 </h1>

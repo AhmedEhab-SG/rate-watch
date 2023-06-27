@@ -62,7 +62,7 @@ const Header = (props) => {
                 alt="isis-logo"
               />
               <Typography variant="h6" sx={headerStyles.logoHover}>
-                IsisRates
+                RateWatch
               </Typography>
             </Link>
             <NavBtn />
