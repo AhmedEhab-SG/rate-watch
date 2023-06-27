@@ -2,8 +2,7 @@
 
 # RateWatch
 
-<h2>About Project:
-
+<h2>About Project:<br>
 This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs.<h2>
 
 ### Made with:
