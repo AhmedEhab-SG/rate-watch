@@ -1,8 +1,8 @@
 <div align='center'><img style="width:16%" src='./public/logo.png'/></div>
 
-# IsisDom
+# RateWatch
 
-## About Project: This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs
+## » This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs
 
 ### Made with:
 
