@@ -47,7 +47,7 @@ const Footer = () => {
           {" "}
           <Link
             target="_blank"
-            href="https://github.com/AhmedEhab-SG/isis-rates"
+            href="https://github.com/AhmedEhab-SG/rate-watch"
             sx={{
               display: "flex",
               alignItems: "center",
