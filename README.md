@@ -2,9 +2,9 @@
 
 # IsisDom
 
-## This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs
+## About Project: This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs
 
-<h3>Made with:</h3>
+### Made with:
 
 » React JS <br>
 » Material-UI <br>
