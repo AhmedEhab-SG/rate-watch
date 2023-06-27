@@ -2,9 +2,9 @@
 
 # RateWatch
 
-<p font-size:"15px">About Project:</p>
+<h2>About Project:
 
-<h2>This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs.<h2>
+This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving it from APIs.<h2>
 
 ### Made with:
 
@@ -15,7 +15,7 @@
 » currencyfreaks API <br>
 » freegold API <br>
 
-Live Link: <a href=''>IsisDom</a>
+Live Link: <a href=''>RateWatch</a>
 
 <h1 align="center" >
 <img src="./public/img/isisDom.img.png" alt="car-shop-cover">
