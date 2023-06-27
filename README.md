@@ -15,7 +15,7 @@
 » currencyfreaks API <br>
 » freegold API <br>
 
-Live Link: <a href=''>RateWatch</a>
+Live Link: <a href="https://ahmedehab-sg.github.io/rate-watch/">RateWatch</a>
 
 <h1 align="center" >
 <img src="./public/img/rateWatch.img.png" alt="rate-watch-cover">
