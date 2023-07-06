@@ -77,7 +77,7 @@ const GoldRate = (props) => {
           sx={goldRateStyles.goldSilverImg}
         />
         <Typography variant="h5" sx={{ textAlign: "center" }}>
-          <i> Gold & Sliver Lastest Update: {props.onLastUpdate}</i>
+          <i> Gold & Sliver Latest Update: {props.onLastUpdate}</i>
         </Typography>
       </Grid>
       <Grid sx={goldRateStyles.titleConttainer}>
