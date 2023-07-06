@@ -4,7 +4,7 @@
 
 ### About Project:
 
-#### This project is designed to provide you with up-to-date information on currnecies and Gold-Silver rates by receiving data from APIs.
+#### This project is designed to provide you with up-to-date information on currnecies and gold-silver rates by receiving data from APIs.
 
 ### Made with:
 
