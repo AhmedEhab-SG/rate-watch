@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rate-watch/static/css/main.138ac83e.css",
-    "main.js": "/rate-watch/static/js/main.a478eb33.js",
+    "main.js": "/rate-watch/static/js/main.787a2096.js",
     "static/media/setOfGold.assets.png": "/rate-watch/static/media/setOfGold.assets.a9364bba49502e668de0.png",
     "static/media/winged-isis-logo.assets.png": "/rate-watch/static/media/winged-isis-logo.assets.c77d75f896cb4cdd278c.png",
     "static/media/USA.assets.jpg": "/rate-watch/static/media/USA.assets.56af3c704a8def0c99b9.jpg",
@@ -24,6 +24,7 @@
     "static/media/goldCoin.assets.png": "/rate-watch/static/media/goldCoin.assets.4faf7eb8dba728d1c0a3.png",
     "static/media/gold14.assets.png": "/rate-watch/static/media/gold14.assets.afc21486141a72791abe.png",
     "static/media/silver99.9.assets.png": "/rate-watch/static/media/silver99.9.assets.7d2aac7d5776c0b56a76.png",
+    "static/media/Tunisia.assets.png": "/rate-watch/static/media/Tunisia.assets.f9b556f0bdf998791eae.png",
     "static/media/SilverCoin.assets.png": "/rate-watch/static/media/SilverCoin.assets.f088efbbf1ee89922516.png",
     "static/media/silver95.8.assets.png": "/rate-watch/static/media/silver95.8.assets.c33988fc3f52a43fe628.png",
     "static/media/silver92.5.assets.png": "/rate-watch/static/media/silver92.5.assets.85da52ed28cb84428465.png",
@@ -37,10 +38,10 @@
     "static/media/NewZealand.assets.png": "/rate-watch/static/media/NewZealand.assets.2827db7bab74cb6fb6b6.png",
     "index.html": "/rate-watch/index.html",
     "main.138ac83e.css.map": "/rate-watch/static/css/main.138ac83e.css.map",
-    "main.a478eb33.js.map": "/rate-watch/static/js/main.a478eb33.js.map"
+    "main.787a2096.js.map": "/rate-watch/static/js/main.787a2096.js.map"
   },
   "entrypoints": [
     "static/css/main.138ac83e.css",
-    "static/js/main.a478eb33.js"
+    "static/js/main.787a2096.js"
   ]
 }
