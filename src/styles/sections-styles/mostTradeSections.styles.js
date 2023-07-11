@@ -12,7 +12,10 @@ const mostTradeStyles = {
     textAlign: "center",
     borderRadius: "1rem",
   },
-  swiperImg: { width: "2.5rem", height: "2rem" },
+  swiperImg: {
+    height: { md: "2rem", sm: "1.75", xs: "1.5rem" },
+    width: { md: "3rem", sm: "2.75", xs: "2.5rem" },
+  },
   updateTitle: { textAlign: "center", marginTop: "5rem" },
   headerContainer: {
     display: "flex",

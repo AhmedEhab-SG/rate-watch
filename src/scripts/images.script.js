@@ -24,6 +24,7 @@ export { default as Ukrainian } from "../assets/images/flag-imgs/Ukrainian.asset
 export { default as UnitedArabEmirates } from "../assets/images/flag-imgs/UnitedArabEmirates.assets.png";
 export { default as Yemen } from "../assets/images/flag-imgs/Yemen.assets.png";
 export { default as China } from "../assets/images/flag-imgs/China.assets.png";
+export { default as Tunisia } from "../assets/images/flag-imgs/Tunisia.assets.png";
 export { default as emptyFlag } from "../assets/images/flag-imgs/emptyFlag.assets.png";
 export { default as gold12 } from "../assets/icons/gold-icons/gold12.assets.png";
 export { default as gold14 } from "../assets/icons/gold-icons/gold14.assets.png";

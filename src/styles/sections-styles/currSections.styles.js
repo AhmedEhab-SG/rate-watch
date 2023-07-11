@@ -7,7 +7,10 @@ const currStyles = {
     gap: "3%",
     paddingLeft: "1%",
   },
-  countryFlags: { height: "1rem", width: "1.5rem" },
+  countryFlags: {
+    height: { md: "1.5rem", sm: "1.25", xs: "1rem" },
+    width: { md: "2.25rem", sm: "2", xs: "1.75rem" },
+  },
   titleContainer: {
     display: "flex",
     width: "fit-content",

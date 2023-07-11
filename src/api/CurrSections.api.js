@@ -21,6 +21,7 @@ import {
   Sudan,
   Sweden,
   Switzerlan,
+  Tunisia,
   Turkey,
   UK,
   USA,
@@ -30,7 +31,7 @@ import {
 } from "../scripts/images.script";
 import currenciesApi from "../services/currencies-api";
 import { Box } from "@mui/material";
-import styles from "../styles/styles.module.css"
+import styles from "../styles/styles.module.css";
 
 const CurrSectionsApi = () => {
   const { status, data } = useQuery("currencies-api", currenciesApi, {
@@ -90,6 +91,11 @@ const CurrSectionsApi = () => {
         img: Qatar,
         country: "Qatari Riyal",
         currencyToEgp: rateToEGP.QAR,
+      },
+      {
+        img: Tunisia,
+        country: "Tunisian Dinar",
+        currencyToEgp: rateToEGP.TND,
       },
       {
         img: UnitedArabEmirates,
