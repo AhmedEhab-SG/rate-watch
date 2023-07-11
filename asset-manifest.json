@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rate-watch/static/css/main.138ac83e.css",
-    "main.js": "/rate-watch/static/js/main.787a2096.js",
+    "main.js": "/rate-watch/static/js/main.c9c696c0.js",
     "static/media/setOfGold.assets.png": "/rate-watch/static/media/setOfGold.assets.a9364bba49502e668de0.png",
     "static/media/winged-isis-logo.assets.png": "/rate-watch/static/media/winged-isis-logo.assets.c77d75f896cb4cdd278c.png",
     "static/media/USA.assets.jpg": "/rate-watch/static/media/USA.assets.56af3c704a8def0c99b9.jpg",
@@ -38,10 +38,10 @@
     "static/media/NewZealand.assets.png": "/rate-watch/static/media/NewZealand.assets.2827db7bab74cb6fb6b6.png",
     "index.html": "/rate-watch/index.html",
     "main.138ac83e.css.map": "/rate-watch/static/css/main.138ac83e.css.map",
-    "main.787a2096.js.map": "/rate-watch/static/js/main.787a2096.js.map"
+    "main.c9c696c0.js.map": "/rate-watch/static/js/main.c9c696c0.js.map"
   },
   "entrypoints": [
     "static/css/main.138ac83e.css",
-    "static/js/main.787a2096.js"
+    "static/js/main.c9c696c0.js"
   ]
 }
