@@ -76,7 +76,6 @@ const NavBtn = () => {
             anchor="right"
             open={navDrawer}
             onClose={navDrawerTouggle}
-            onOpen={navDrawerTouggle}
             variant="temporary"
             PaperProps={navStyles.paperDrwaer}
           >

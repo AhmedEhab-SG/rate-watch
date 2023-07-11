@@ -19,7 +19,7 @@ const footerStyles = {
     flexBasis: "33.333%",
     padding: "0.5rem",
   },
-  textDicrostions: { textDecoration: "underline" },
+  textDicrostions: { textDecoration: "underline", textUnderlineOffset: "4px" },
   linkStyles: {
     textDecoration: "none",
     fontStyle: "italic",
@@ -49,6 +49,7 @@ const footerStyles = {
   },
   linkUnderline: {
     textDecoration: "underline",
+    textUnderlineOffset: "4px",
     color: layoutStyles.lightSilver,
     "&:hover": {
       color: layoutStyles.goldColor,

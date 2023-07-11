@@ -57,7 +57,7 @@ const Footer = () => {
           >
             <Typography variant="caption" sx={footerStyles.linkUnderline}>
               {" "}
-              Interested Feel Free
+              Interested? Feel Free
             </Typography>
             <Box
               component="img"
